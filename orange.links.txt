@@ -11,6 +11,11 @@ Widget Development:
 
     Testing:
         https://orange3.readthedocs.io/projects/orange-development/testing.html
+
+QT:
+    Table:
+        https://doc.qt.io/qt-5/qtablewidget.html
+
 Videos:
     Getting Started:
         https://www.youtube.com/watch?v=HXjnDIgGDuI&list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy
