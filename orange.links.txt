@@ -4,17 +4,37 @@ Widget Development:
     https://orange.biolab.si/blog/2017/02/23/my-first-orange-widget/
 
     QT:
-    Table:
-        https://doc.qt.io/qt-5/qtablewidget.html
+        Designer:
+            https://pythonbasics.org/qt-designer-python/
+
+        Table:
+            https://doc.qt.io/qt-5/qtablewidget.html
+
+        SQL:
+            https://www.tutorialspoint.com/pyqt/pyqt_database_handling.htm
+
+        PyQt:
+            https://pythonprogramming.net/drop-down-button-window-styles-pyqt-tutorial/
+
+        Scrollarea:
+            https://doc.qt.io/archives/qt-4.8/qscrollarea.html
+
+    Window Communication:
+        https://www.youtube.com/watch?v=wOxzhX0QnAw
 
     Plots:
         https://matplotlib.org/gallery/user_interfaces/embedding_in_qt_sgskip.html#sphx-glr-gallery-user-interfaces-embedding-in-qt-sgskip-py
 	
         Axes:
             https://matplotlib.org/3.1.1/gallery/ticks_and_spines/multiple_yaxis_with_spines.html
+            https://stackoverflow.com/questions/9103166/multiple-axis-in-matplotlib-with-different-scales
 
 	Legend:
 	    https://matplotlib.org/3.1.1/gallery/event_handling/legend_picking.html
+
+        Seaborn:
+            https://stackoverflow.com/questions/41671867/embedding-figure-type-seaborn-plot-in-pyqt-pyqtgraph
+            https://github.com/diego0020/correlation_viewer
 
 	Eventhandling:
             https://matplotlib.org/3.1.1/users/event_handling.html
