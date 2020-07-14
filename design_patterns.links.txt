@@ -1,0 +1,6 @@
+https://martinfowler.com/eaaDev/uiArchs.html
+https://de.wikipedia.org/wiki/Zustand_(Entwurfsmuster)
+https://de.wikipedia.org/wiki/Signal-Slot-Konzept
+https://de.wikipedia.org/wiki/Beobachter_(Entwurfsmuster)
+https://de.wikipedia.org/wiki/Data_Access_Object
+https://de.wikipedia.org/wiki/Entwurfsmuster
