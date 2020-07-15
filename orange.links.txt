@@ -12,6 +12,8 @@ Seaborn:
     https://seaborn.pydata.org/examples/scatterplot_matrix.html
 
     QT:
+        https://github.com/pyqtgraph/pyqtgraph/blob/master/pyqtgraph/widgets/ScatterPlotWidget.py
+
         Designer:
             https://pythonbasics.org/qt-designer-python/
 
