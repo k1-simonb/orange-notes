@@ -10,6 +10,7 @@ Widget Development:
 
 Seaborn:
     https://seaborn.pydata.org/examples/scatterplot_matrix.html
+    https://stackoverflow.com/questions/4652439/is-there-a-matplotlib-equivalent-of-matlabs-datacursormode
 
     QT:
         https://github.com/pyqtgraph/pyqtgraph/blob/master/pyqtgraph/widgets/ScatterPlotWidget.py
