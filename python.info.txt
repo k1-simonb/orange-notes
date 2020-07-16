@@ -13,3 +13,7 @@ locale.setlocale(locale.LC_ALL, 'de_DE')
 date_str_de_DE = '10-Dezember-2018 Montag'  # de_DE locale
 datetime_object = datetime.strptime(date_str_de_DE, '%d-%B-%Y %A')
 print(datetime_object)
+
+
+performance:
+    https://wiki.python.org/moin/PythonSpeed/PerformanceTips
